@@ -5,6 +5,6 @@
 ## Start
 
 - download files
-- open in IDE (I used VScode)
+- open proj 
 - terminal: npm i
 - terminal: npm run dev

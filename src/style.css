@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #F6F3F3;
+  /* overflow-x: hidden; */
+}
+
+/* merriweather-regular - latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-display: fallback;
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://dl.dropboxusercontent.com/s/v8q80megpq81z4x/merriweather-v30-latin-regular.woff2?dl=0') format('woff2'); /* IE9 Compat Modes */
+}
+
+button:hover{
+  background-color: #776763;
+    color: white;
+    cursor: pointer;
+}
+
+button{
+  font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    font-size: 14px;
+}
